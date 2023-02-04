@@ -71,7 +71,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 App Netflix 
 App
-
-My app
-app
-app
