@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
 import { Link, useNavigate } from 'react-router-dom'
-import netflixBG from "../../assets/images/Netflix-background.jpg"
-import { UserAuth } from '../../Context/AuthContext'
+import netflixBG from "../assets/images/Netflix-background.jpg"
+import { UserAuth } from '../Context/AuthContext'
 
 const LogIn = () => {
   const [email, setEmail] = useState("");
