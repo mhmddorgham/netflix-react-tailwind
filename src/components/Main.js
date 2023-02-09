@@ -23,6 +23,7 @@ const Main = () => {
   };
 
   return (
+    // This is a comment
     <div className='w-full h-[600px] text-white'>
       <div className='w-full h-full'>
         <div className='absolute w-full h-[600px] bg-gradient-to-r from-black'></div>
