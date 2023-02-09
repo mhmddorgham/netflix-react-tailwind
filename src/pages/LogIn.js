@@ -24,6 +24,8 @@ const LogIn = () => {
     }
   }
 
+  console.log(user);
+
   return (
     <>
       <div className='w-full h-screen'>
